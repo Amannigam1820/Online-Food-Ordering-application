@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "kadhai paneer",
+  "image": "paneer.png",
+  "price": "250",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Afgani paneer",
+  "image": "panner.png",
+  "price": "350",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "panner seek kabaab",
+  "image": "paneer.png",
+  "price": "200",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Sahi paneer",
+  "image": "paneer.png",
+  "price": "500",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Paneer Bhurji",
+  "image": "paneer.png",
+  "price": "150",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Palak paneer",
+  "image": "paneer.png",
+  "price": "300",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "panner-do-pyaza",
+  "image": "paneer.png",
+  "price": "300",
+  "size": "full"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Mashroom paneer",
+  "image": "paneer.png",
+  "price": "500",
+  "size": "full"
+}]
